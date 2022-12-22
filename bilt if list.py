@@ -1,0 +1,11 @@
+list1=[10,9,5,6,2,3,15,19,23]
+list1.reverse()
+print(list1)
+list.sort()
+print(list1)
+list1.sort(reverse=True)
+print(list1)
+list1.insert(5,20)
+print(list1)
+list1.pop(3)
+print(list1)
